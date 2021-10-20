@@ -2,7 +2,7 @@
 
 Objectives: 
 
-Implement exception handling.  
+Implement exception handling 
 
 Tasks:
 
